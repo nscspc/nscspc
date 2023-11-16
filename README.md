@@ -1,4 +1,4 @@
-### ✨ Hi! I'm Naveen Saini
+# ✨ Hi! I'm Naveen Saini
 
 <!--
 **nscspc/nscspc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
 🔭 I’m currently working on Software Development.<br>👯 I'm looking to land a job in Computer Science field to learn and work in a pragmatic way in an organization where I can gain knowledge and experience and enhance my skills to meet goals and objectives with integrity and zest.<br>🌱 I’m currently learning Bloc State Management.<br>💬 Ask me about Software Development.<br>📫 Reach me at saininaveen933@gmail.com.
 
 
